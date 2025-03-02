@@ -60,7 +60,7 @@ Here are some screenshots demonstrating the usage of the tool:
 
 
 ## Author
-- **Your Name**
+- **Kinza Bughio**
 - GitHub: [kinza099](https://github.com/kinza099)
 - Email: kinzapython@gmail.com
 
