@@ -47,21 +47,6 @@ Banner from 192.168.1.1:22:
 SSH-2.0-OpenSSH_7.6p1 Ubuntu-4ubuntu0.3
 ```
 
-### Example Output:
-```
-  ____            _       ____                                  
- |  _ \ ___  _ __| |_ ___/ ___|  ___ __ _ _ __  _ __   ___ _ __ 
- | |_) / _ \| '__| __/ __\___ \ / __/ _` | '_ \| '_ \ / _ \ '__|
- |  __/ (_) | |  | |_\__ \___) | (_| (_| | | | | | | |  __/ |   
- |_|   \___/|_|   \__|___/____/ \___\__,_|_| |_|_| |_|\___|_|   
-
-Please Enter the IP Address: 192.168.1.1
-Enter the Port: 22
-
-Banner from 192.168.1.1:22:
-SSH-2.0-OpenSSH_7.6p1 Ubuntu-4ubuntu0.3
-```
-
 ## Screenshots
 Here are some screenshots demonstrating the usage of the tool:
 
